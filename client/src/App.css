@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-image: url(https://wallpapercave.com/wp/dH8ljb2.jpg) ;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.btn {
+  padding: 12px 15px; 
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  background: linear-gradient(30deg, rgb(0, 0, 0), rgb(255, 187, 0)); 
+  color: #fff; 
+  border: none;
+}
+.bottombtn{
+  display: inline-grid;
+}
+.welcome {
+  background-color: black;
+  color: gold;
+  border-radius: 15px;
+}
+#join {
+  color: gold;
+}
